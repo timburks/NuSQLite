@@ -1,0 +1,17 @@
+
+This is a minimal wrapper around SQLite. 
+
+It is derived from Dylan Bruzenak's SQLite chapter 
+in "iPhone Advanced Projects" (Apress).
+
+It includes the source for SQLite so that we can enable 
+and test some optional SQLite features. Currently the
+RTREE and FTS3 (full text search) indexes are enabled.
+See the Nukefile for the necessary build settings for this.
+
+NuSQLite code is copyright 2010, Neon Design Technology, Inc.
+and is released under the Apache License, v2.
+
+See the SQLite source for its copyright and license information.
+
+- Tim Burks
